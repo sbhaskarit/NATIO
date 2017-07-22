@@ -1,10 +1,10 @@
-# NATIO
+# NATS IO
 NATS IO (High Performance Cloud Native Messaging)
 
 Overview
 ------------------------------------------
-NATS is an open source messaging system
-NATS server is written in Go programming language
+NATS IO is an open source messaging system
+NATS IO server is written in Go programming language
 Apcera develops and provide support for NATS (Developed by Derek Collision in Ruby earlier)
 The core design principle of NATS are Performance, Scalability and Easy of Use
 Security - Pluggable Integration with External Authorisation
