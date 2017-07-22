@@ -37,3 +37,4 @@ Java Program - Publisher & Subscriber
 6) Run the Jar [ java -jar Subscriber.jar --server]
 
 Note: Start the NATS server and Run the Subscriber first and then Publisher. You are done..
+For more details: https://nats.io/
