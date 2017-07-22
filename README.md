@@ -13,9 +13,6 @@ Activities
 ------------------------------------------
 NATS Streaming Server setup
 Java Program - Publisher & Subscriber
-Integration With Spring Boot
-Testing with JMeter by Pushing millions of messages
-Scalability
 
 NATS Streaming Server setup
 -------------------------------------
